@@ -1,10 +1,10 @@
 # IPTVJJ
-IPTVJJ TV Free
+IPTV JJ TV Free
 
 Un saludo.
 
 
-IPTVJJ TV Free
+IPTV JJ TV Free
 
 All the best.
 
