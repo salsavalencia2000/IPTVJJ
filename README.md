@@ -22,6 +22,7 @@ Este software descargado desde esta página está libre de virus y de cualquier 
 Gracias por vuestra comprensión y para cualquier consulta o duda no tengáis reparos en escribirme.
 valen3000@live.com
 
+-----------------------------------------------------------------------------------------------------
 
 Currently, Microsoft Windows does not allow downloads of files that do not have a reputation within the antivirus, therefore, after downloading the software, the typical "Windows protected your pc" window will appear. For now, I am not going to apply any Code Signing Certificate to it. prevent these types of windows from appearing since the price of one of these certificates is abusive and illegal. Unfortunately, Microsoft has a monopoly in this regard, preventing new programmers from entering the market without difficulty.
 
