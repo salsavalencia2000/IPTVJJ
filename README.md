@@ -1,11 +1,8 @@
 # IPTVJJ
-IPTV JJ TV Free
+IPTV JJ TV Free    Version 1.6
+
 
 Un saludo.
-
-
-IPTV JJ TV Free
-
 All the best.
 
 ![](https://github.com/salsavalencia2000/IPTVJJ/blob/main/IptvJJ1.jpg)
