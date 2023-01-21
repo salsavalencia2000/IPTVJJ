@@ -1,5 +1,5 @@
 # IPTVJJ
-IPTV JJ TV Free    Version 1.6
+IPTV JJ TV Free    Version 1.7  Date 21/01/2023  20:00 hours
 
 
 Un saludo.
