@@ -1,8 +1,6 @@
 # IPTVJJ
 IPTV JJ TV Free    Version 2.2  Date 2/04/2023  04:29 hours
 
-IPTV JJ TV Free    Version 2  Date 31/01/2023  20:00 hours
-
 
 Un saludo.
 All the best.
@@ -56,3 +54,9 @@ Tento software je distribuován ze zdroje s prázdnými databázemi, bez jakých
 To oprogramowanie jest dystrybuowane ze źródła z pustymi bazami danych, bez żadnych plików M3U lub podobnych.
 
 Tento softvér je distribuovaný zo zdroja s prázdnymi databázami, bez akýchkoľvek súborov M3U alebo podobných súborov.
+
+
+
+Versiones anteriores:  
+
+IPTV JJ TV Free    Version 2  Date 31/01/2023  20:00 hours
