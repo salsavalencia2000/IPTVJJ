@@ -1,9 +1,13 @@
 # IPTVJJ
-IPTV JJ TV Free    Version 2.2  Date 2/04/2023  04:29 hours
+IPTV JJ TV Free    Version 2.3  Date 23/06/2023  06:29 hours
 
 
 Un saludo.
 All the best.
+
+Enlace de descarga fuera de github que contienen los drivers para poder ver la televisión a través de página web:
+https://digistorage.net/c2tl1tda | contraseña: 452868
+
 
 ![](https://github.com/salsavalencia2000/IPTVJJ/blob/main/IptvJJ1.jpg)
 
