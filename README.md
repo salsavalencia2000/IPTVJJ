@@ -6,7 +6,7 @@ Un saludo.
 All the best.
 
 Enlace de descarga fuera de github que contienen los drivers para poder ver la televisión a través de página web:
-https://digistorage.net/c2tl1tda | contraseña: 452868
+https://drive.google.com/file/d/1dcbD7i4_FUUNosBNQQHuRQsldny2d-L9/view?usp=sharing
 
 
 ![](https://github.com/salsavalencia2000/IPTVJJ/blob/main/IptvJJ1.jpg)
