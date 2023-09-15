@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1dcbD7i4_FUUNosBNQQHuRQsldny2d-L9/view?usp=shari
 
 ![](https://github.com/salsavalencia2000/IPTVJJ/blob/main/IptvJJ1.jpg)
 
-Video turtorial: 
+Video tutorial: 
 [https://github.com/salsavalencia2000/IPTVJJ/blob/main/iptvjj.mp4](https://github.com/salsavalencia2000/IPTVJJ/raw/main/iptvjj.mp4)
 
 
