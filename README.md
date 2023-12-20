@@ -61,6 +61,3 @@ Tento softvér je distribuovaný zo zdroja s prázdnymi databázami, bez akýchk
 
 
 
-Versiones anteriores:  
-
-IPTV JJ TV Free    Version 2  Date 31/01/2023  20:00 hours
